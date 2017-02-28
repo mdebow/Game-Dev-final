@@ -1,14 +1,18 @@
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2008
 
-
+Project("{7F4625B6-DEF7-42A9-8E82-8D56224D8A9A}") = "animation tutorial", "Assembly-CSharp.csproj", "{A0D530D2-3C37-B40C-3674-1D5A6A43A865}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-
+		{A0D530D2-3C37-B40C-3674-1D5A6A43A865}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0D530D2-3C37-B40C-3674-1D5A6A43A865}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0D530D2-3C37-B40C-3674-1D5A6A43A865}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0D530D2-3C37-B40C-3674-1D5A6A43A865}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
